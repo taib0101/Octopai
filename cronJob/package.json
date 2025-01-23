@@ -1,0 +1,17 @@
+{
+  "name": "cronjob",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "authorizenet": "^1.0.9",
+    "mongoose": "^8.9.5",
+    "node-cron": "^3.0.3"
+  }
+}
